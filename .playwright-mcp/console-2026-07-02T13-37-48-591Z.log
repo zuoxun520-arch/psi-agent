@@ -1,0 +1,2 @@
+[   41791ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://httpbin.org/get:0
+[   42182ms] [ERROR] Failed to load resource: the server responded with a status of 503 () @ https://httpbin.org/favicon.ico:0

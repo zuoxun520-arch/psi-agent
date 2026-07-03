@@ -1,0 +1,151 @@
+- generic [ref=e1]:
+  - link "跳至内容" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - navigation "侧边栏":
+          - generic:
+            - generic:
+              - generic:
+                - button "打开边栏":
+                  - img
+          - generic:
+            - generic:
+              - link "新聊天":
+                - /url: /
+                - generic:
+                  - img
+                - generic: 新聊天
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - generic: 搜索聊天
+            - generic:
+              - link "图片":
+                - /url: /images
+                - generic:
+                  - img
+                - generic: 图片
+          - generic:
+            - generic:
+              - button "打开“个人资料”菜单":
+                - generic:
+                  - generic:
+                    - img
+        - generic [ref=e9]:
+          - heading "历史聊天记录" [level=2] [ref=e10]
+          - navigation "历史聊天记录" [ref=e12]:
+            - generic [ref=e15]:
+              - link "主页" [ref=e16] [cursor=pointer]:
+                - /url: /
+                - img [ref=e17]
+              - button "关闭边栏" [expanded] [ref=e20]:
+                - img [ref=e21]
+            - list [ref=e24]:
+              - listitem [ref=e25]:
+                - link "新聊天 控制 Shift O" [ref=e26] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e27]:
+                    - img [ref=e29]
+                    - generic [ref=e32]: 新聊天
+                  - generic [ref=e34]:
+                    - generic "控制" [ref=e35]:
+                      - generic [ref=e36]: Ctrl
+                      - text: +
+                    - generic "Shift" [ref=e37]:
+                      - generic [ref=e38]: Shift
+                      - text: +
+                    - generic [ref=e40]: O
+              - listitem
+              - listitem [ref=e41]:
+                - generic [ref=e42] [cursor=pointer]:
+                  - img [ref=e44]
+                  - generic [ref=e47]: 搜索聊天
+            - link "图片" [ref=e48] [cursor=pointer]:
+              - /url: /images
+              - img [ref=e50]
+              - generic [ref=e53]: 图片
+            - generic [ref=e55]:
+              - link "查看套餐和定价" [ref=e56] [cursor=pointer]:
+                - /url: https://openai.com/chatgpt/pricing/
+                - generic [ref=e57]:
+                  - img [ref=e59]
+                  - text: 查看套餐和定价
+                - img [ref=e62]
+              - generic [ref=e64] [cursor=pointer]:
+                - img [ref=e66]
+                - text: 设置
+              - generic [ref=e68] [cursor=pointer]:
+                - generic [ref=e69]:
+                  - img [ref=e71]
+                  - generic [ref=e74]: 帮助
+                - img [ref=e76]
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - paragraph [ref=e80]: 获取为你量身定制的回复
+                - paragraph [ref=e81]: 登录以获取基于已保存聊天的回答，并可创建图片和上传文件。
+              - button "登录" [ref=e83] [cursor=pointer]:
+                - generic [ref=e84]: 登录
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - banner:
+            - button "模型选择器" [ref=e89] [cursor=pointer]:
+              - generic [ref=e90]:
+                - generic [ref=e91]: ChatGPT
+                - img [ref=e92]
+            - generic [ref=e98]:
+              - button "登录" [ref=e99] [cursor=pointer]:
+                - generic [ref=e100]: 登录
+              - button "免费注册" [ref=e101] [cursor=pointer]:
+                - generic [ref=e102]: 免费注册
+        - main [ref=e104]:
+          - generic [ref=e105]:
+            - heading "你今天在想些什么？" [level=1] [ref=e113]:
+              - generic [ref=e114]: 你今天在想些什么？
+            - generic [ref=e115]:
+              - generic [ref=e121]:
+                - generic [ref=e125]:
+                  - button "添加文件等" [ref=e128] [cursor=pointer]:
+                    - img
+                  - textbox "与 ChatGPT 聊天" [ref=e131]:
+                    - paragraph [ref=e132]: 有问题，尽管问
+                  - generic [ref=e134]:
+                    - button "开始听写" [ref=e135] [cursor=pointer]:
+                      - img
+                    - button "启动语音功能" [ref=e139] [cursor=pointer]:
+                      - img [ref=e141]
+                      - generic [ref=e143]: 语音
+                - button [ref=e144]
+                - button [ref=e145]
+              - generic [ref=e150]:
+                - text: ChatGPT 是 AI。使用即表示你同意我们的
+                - link "条款" [ref=e151] [cursor=pointer]:
+                  - /url: https://openai.com/terms
+                - text: 和
+                - link "隐私政策" [ref=e152] [cursor=pointer]:
+                  - /url: https://openai.com/privacy
+                - text: 。聊天内容可能会被审核，并用于改进我们的 AI 模型。
+                - link "了解更多" [ref=e153] [cursor=pointer]:
+                  - /url: https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance
+    - dialog [ref=e155]:
+      - generic [ref=e156]:
+        - heading "我们使用 Cookie" [level=1] [ref=e157]
+        - button "关闭" [ref=e158] [cursor=pointer]:
+          - img
+      - generic [ref=e159]:
+        - paragraph [ref=e160]:
+          - text: Cookie 可帮助本网站正常运行、衡量使用情况并支持营销。你可以随时
+          - button "管理" [ref=e161] [cursor=pointer]
+          - text: Cookie 偏好设置。详细了解我们的
+          - link "Cookie 政策" [ref=e162] [cursor=pointer]:
+            - /url: https://openai.com/policies/cookie-policy/
+          - text: 。
+        - generic [ref=e163]:
+          - button "拒绝非必需" [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]: 拒绝非必需
+          - button "全部接受" [active] [ref=e166] [cursor=pointer]:
+            - generic [ref=e167]: 全部接受
+  - alert [ref=e168]
+  - status [ref=e169]

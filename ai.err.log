@@ -1,0 +1,31 @@
+[32m20:53:06.939[0m | [1mINFO    [0m | [36mpsi_agent.ai[0m:[36mserve_ai[0m:[36m31[0m - [1mStarting AI service on http://127.0.0.1:8765 (provider='openai', model='deepseek-v4-flash', base_url=https://api.deepseek.com, api_key=set)[0m
+[32m20:53:06.940[0m | [31m[1mERROR   [0m | [36mpsi_agent.ai[0m:[36mserve_ai[0m:[36m49[0m - [31m[1mFailed to start AI service on htt[32m20:54:14.955[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:17.874[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:54:32.915[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:35.619[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:54:37.269[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:38.356[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:54:40.500[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:43.200[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:54:48.914[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:50.448[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:54:57.412[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:54:59.397[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:01.458[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:03.154[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:05.691[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:07.432[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:11.382[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:12.864[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:20.837[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:22.565[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:22.570[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:24.595[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:26.771[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:29.167[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:31.085[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:32.883[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:41.887[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:44.298[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m
+[32m20:55:46.994[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m14[0m - [1mReceived chat completion request[0m
+[32m20:55:48.387[0m | [1mINFO    [0m | [36mpsi_agent.ai.server[0m:[36mhandle_chat_completions[0m:[36m113[0m - [1mRequest completed successfully[0m

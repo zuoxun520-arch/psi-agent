@@ -1,0 +1,9 @@
+﻿{
+    "scripts":  {
+                    "playwright:install":  "playwright install chromium",
+                    "playwright:check":  "node scripts/check-playwright.js"
+                },
+    "dependencies":  {
+                         "playwright":  "^1.61.1"
+                     }
+}
